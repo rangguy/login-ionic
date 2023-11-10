@@ -1,0 +1,7 @@
+{
+  "name": "cobaloginNg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
